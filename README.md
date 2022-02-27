@@ -21,10 +21,7 @@
 - **C++**
 
 
-<h3 align="left">🤝 Connect with me on:</h3>
-<a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="80" height="80"/> 
-</a>
+
 <p align="left">
 
 <h3 align="left">Languages and Tools that I can work with:</h3>
@@ -108,3 +105,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
 </p>
+<h3 align="left">🤝 Connect with me on:</h3>
+<a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="80" height="80"/> 
+</a>
