@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on **Java/Angular projects**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/"/>
+<a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
+    img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="40" height="40"/> 
+</a>
 <p align="left">
 
 <h3 align="left">Languages and Tools that I can work with:</h3>
