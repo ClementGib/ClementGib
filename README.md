@@ -106,7 +106,7 @@
     </a> 
 </p>
 
-<h4 align="left">🤝 Connect with me on:</h3>
+<h4 align="left">Connect with me on:</h3>
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="60" height="60"/> 
 </a>
