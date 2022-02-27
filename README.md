@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">A passionate full-stack developper from France</h3>
 
-- 🔭 I’m currently working on **Java/Angular at Banque De France**
+- 🔥 I’m currently working at **Banque De France 🏦**
+- **Java8**
+- **Angular**
+- **PostegresSQL**
+- **JBoss Wildfly**
+- **Jenkins**
 
-- 👯 I’m looking to collaborate on **Java/Angular projects**
+- 🚀 I’m looking to collaborate on projects: 
+- **Java/Angular**
+- **Java/React**
+- **JakartaEE/Spring**
+- **JavaScript/TypeScript**
+- **Python**
+- **C++**
 
 <h3 align="left">Connect with me on:</h3>
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
