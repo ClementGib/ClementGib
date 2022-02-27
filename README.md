@@ -1,9 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo8567
-Fork on GitHub1879
 <h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developper from France</h3>
 
 - 🔭 I’m currently working on **Java/Angular at Banque De France**
 
