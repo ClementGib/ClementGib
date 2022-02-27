@@ -20,10 +20,10 @@
 - **Python**
 - **C++**
 
-## 🤝 Connect with me on:
-<h3 align="left"></h3>
+
+<h3 align="left">🤝 Connect with me on:</h3>
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="206" height="42"/> 
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="206" height="42"/> 
 </a>
 <p align="left">
 
