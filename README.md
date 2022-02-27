@@ -8,7 +8,7 @@
 - **JBoss Wildfly**
 - **Jenkins**
 - **GitLab**
-- **Agile method**
+- **Agile methods**
     + Scrum
     + Clean Code
 
