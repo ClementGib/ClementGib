@@ -8,8 +8,8 @@
 - **JBoss Wildfly**
 - **Jenkins**
 - **GitLab**
-+ Scrum
-+ Clean Code
+    + Scrum
+    + Clean Code
 
 ## 🚀 I’m looking to collaborate on projects: 
 - **Java/Angular**
