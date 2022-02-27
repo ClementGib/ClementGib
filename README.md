@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on **Java/Angular projects**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/"/>
 <p align="left">
 
 <h3 align="left">Languages and Tools that I can work with:</h3>
