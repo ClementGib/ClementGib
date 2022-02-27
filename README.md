@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me on:</h3>
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="512" height="125"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="256" height="62"/> 
 </a>
 <p align="left">
 
