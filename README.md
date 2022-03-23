@@ -2,11 +2,14 @@
 <h3 align="center">A passionate full-stack developper from France</h3>
 
 ## 🔥 I’m currently working at **Banque De France** for Infotel Conseil 🏛️
-- **Java8**
-- **Angular**
+- **Java 8**
+- **Angular 12**
 - **PostegresSQL**
 - **JBoss Wildfly**
 - **Jenkins**
+- **IBM MQ**
+- **JBeret**
+- **Arquillian**
 - **GitLab**
 - **Agile methods**
     + Scrum
