@@ -5,11 +5,12 @@
 - **Java 8**
 - **Angular 12**
 - **PostegresSQL**
+- **Hibernate**
 - **JBoss Wildfly**
-- **Jenkins**
 - **IBM MQ**
 - **JBeret**
 - **Arquillian**
+- **Jenkins**
 - **GitLab**
 - **Agile methods**
     + Scrum
