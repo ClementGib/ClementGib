@@ -16,13 +16,7 @@
     + Scrum
     + Clean Code
 
-## 🚀 I’m looking to collaborate on projects: 
-- **Java/Angular**
-- **Java/React**
-- **JakartaEE/Spring**
-- **JavaScript/TypeScript**
-- **Python**
-- **C++**
+## 🚀 I’m looking to collaborate on projects
 
 
 
