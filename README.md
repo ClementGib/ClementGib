@@ -13,9 +13,10 @@
 - **Maven**
 - **Jenkins**
 - **GitLab**
-- **Agile methods**
-    + Scrum
-    + Clean Code
+- **Agile methods** 
++ Scrum
++ Software craftsmanship
++ Clean Code
 
 ## 🚀 I’m looking to collaborate on projects
 
