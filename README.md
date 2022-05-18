@@ -3,15 +3,17 @@
 
 ## 🔥 I’m currently working at **Banque De France** for Infotel Conseil 🏛️
 - **Java 8**
-- **Angular 12**
 - **PostegresSQL**
 - **Hibernate**
 - **JBoss Wildfly**
 - **IBM MQ**
 - **JBeret**
+- **JUnit 5**
 - **Arquillian**
 - **Maven**
 - **Jenkins**
+- **Angular 12**
+- **Jest**
 - **GitLab**
 - **Agile methods** 
     + Scrum
