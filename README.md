@@ -10,6 +10,7 @@
 - **IBM MQ**
 - **JBeret**
 - **Arquillian**
+- **Maven**
 - **Jenkins**
 - **GitLab**
 - **Agile methods**
