@@ -1,10 +1,5 @@
 <h1 align="center">Hi,
-    <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="120" height="120" frameBorder="0" class="giphy-embed" allowFullScreen>
-    </iframe>
-    <p>
-        <a href="https://giphy.com/gifs/hello-wave-hand-gM5qFksULw54NMWyry">
-        </a>
-    </p>
+    <image src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="120" height="120" frameBorder="0" class="giphy-embed" allowFullScreen>
     <br>
     I'm Clément</h1>
 <h3 align="center">A passionate full-stack developper from France</h3>
