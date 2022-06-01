@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px"><br>I'm Clément</h1>
+<h1 align="center">Hi <br>I'm Clément</h1>
 <h3 align="center">A passionate full-stack developper from France</h3>
 
 ## 🔥 I’m currently working at **Banque De France** for Infotel Conseil 🏛️
