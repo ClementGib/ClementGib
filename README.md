@@ -3,13 +3,13 @@
 
 ## 🔥 I’m currently working at **Banque De France** for Infotel Conseil 🏛️
 - **Java 8**
-- **PostegresSQL**
+- **PostegreSQL**
 - **Hibernate**
 - **JBoss Wildfly**
-- **IBM MQ**
 - **JBeret**
 - **JUnit 5**
 - **Arquillian**
+- **IBM MQ**
 - **Maven**
 - **Jenkins**
 - **Angular 12**
@@ -22,23 +22,25 @@
 
 ## 🚀 I’m looking to collaborate on projects
 
-
-
 <p align="left">
 
 <h3 align="left">Technologies:</h3>
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
   </a> 
+    
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> 
+     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> 
   </a> 
+    
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
     </a> 
 </p>
 <br>
+
     <p align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -115,3 +117,6 @@
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="60" height="60"/> 
 </a>
+
+
+
