@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋<br>I'm Clément</h1>
 <h3 align="center">A passionate full-stack developper from France</h3>
 
-## 🔥 I’m currently working at **Banque De France** for Infotel Conseil 🏛️
+## I’m currently working at **Banque De France** for Infotel Conseil 🏛️
 - **Java 8**
 - **PostegreSQL**
 - **Hibernate**
@@ -20,7 +20,7 @@
     + Software craftsmanship
     + Clean Code
 
-## 🚀 I’m looking to collaborate on projects
+## I’m looking to collaborate on projects 🚀 
 
 <p align="left">
 
