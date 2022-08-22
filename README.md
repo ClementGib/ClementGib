@@ -113,6 +113,10 @@
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="60" height="60"/> 
 </a>
+<a href="https://stackoverflow.com/users/12138701/cl%c3%a9ment">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" width="60" height="60"/> 
+</a>
+
 
 
 
