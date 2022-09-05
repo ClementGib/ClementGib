@@ -2,20 +2,22 @@
 <h3 align="center">A passionate full-stack developper from France</h3>
 
 ## I’m currently working at **Banque De France** for Infotel Conseil 🏛️
-- **Java 8**
-- **PostegreSQL**
-- **Hibernate**
-- **JBoss Wildfly**
-- **JBeret**
-- **JUnit 5**
-- **Arquillian**
-- **IBM MQ**
-- **Maven**
-- **Jenkins**
-- **Angular 13**
-- **Jest**
-- **Bootstrap 5**
-- **GitLab**
+
+**Technologies:**
+    - Java 8
+    - PostegreSQL
+    - Hibernate
+- JBoss Wildfly
+- JBeret
+- JUnit 5
+- Arquillian
+- IBM MQ
+- Maven
+- Jenkins
+- Angular 13
+- Jest
+- Bootstrap 5
+- GitLab
 
 + Scrum
 + Software craftsmanship
