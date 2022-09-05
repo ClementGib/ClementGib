@@ -4,25 +4,29 @@
 ## I’m currently working at **Banque De France** for Infotel Conseil 🏛️
 
 **Technologies:**
+
     - Java 8
     - PostegreSQL
     - Hibernate
-- JBoss Wildfly
-- JBeret
-- JUnit 5
-- Arquillian
-- IBM MQ
-- Maven
-- Jenkins
-- Angular 13
-- Jest
-- Bootstrap 5
-- GitLab
+    - JBoss Wildfly
+    - JBeret
+    - JUnit 5
+    - Arquillian
+    - IBM MQ
+    - Maven
+    - Jenkins
+    - Angular 13
+    - Jest
+    - Bootstrap 5
+    - GitLab
 
-+ Scrum
-+ Software craftsmanship
-+ Clean Code
-+ Hexagonal architecture
+**Management/Standard:**
+
+    + Scrum
+    + Hexagonal architecture
+    + TDD
+    + Clean Code
+    + Software craftsmanship
 
 ## I’m looking to collaborate on projects 🚀 
 
