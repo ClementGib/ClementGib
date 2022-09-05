@@ -16,10 +16,10 @@
 - **Jest**
 - **Bootstrap 5**
 - **GitLab**
-- **Agile methods** 
     + Scrum
     + Software craftsmanship
     + Clean Code
+    + Hexagonal architecture
 
 ## I’m looking to collaborate on projects 🚀 
 
