@@ -12,8 +12,9 @@
 - **IBM MQ**
 - **Maven**
 - **Jenkins**
-- **Angular 12**
+- **Angular 13**
 - **Jest**
+- **Bootstrap 5**
 - **GitLab**
 - **Agile methods** 
     + Scrum
