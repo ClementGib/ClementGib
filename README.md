@@ -16,10 +16,11 @@
 - **Jest**
 - **Bootstrap 5**
 - **GitLab**
-    + Scrum
-    + Software craftsmanship
-    + Clean Code
-    + Hexagonal architecture
+
++ Scrum
++ Software craftsmanship
++ Clean Code
++ Hexagonal architecture
 
 ## I’m looking to collaborate on projects 🚀 
 
