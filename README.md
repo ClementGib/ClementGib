@@ -5,20 +5,20 @@
 
 **Technologies:**
 
-    - Java 8
-    - PostegreSQL
-    - Hibernate
-    - JBoss Wildfly
-    - JBeret
-    - JUnit 5
-    - Arquillian
-    - IBM MQ
-    - Maven
-    - Jenkins
-    - Angular 13
-    - Jest
-    - Bootstrap 5
-    - GitLab
+    + Java 8
+    + PostegreSQL
+    + Hibernate
+    + JBoss Wildfly
+    + JBeret
+    + JUnit 5
+    + Arquillian
+    + IBM MQ
+    + Maven
+    + Jenkins
+    + Angular 13
+    + Jest
+    + Bootstrap 5
+    + GitLab
 
 **Management/Standard:**
 
