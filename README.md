@@ -3,7 +3,7 @@
 
 ## I’m currently working at **Banque De France** for Infotel Conseil 🏛️
 
-**Technologies:**
+**Stack:**
 
     + Java 8
     + PostegreSQL
@@ -20,7 +20,7 @@
     + Bootstrap 5
     + GitLab
 
-**Management/Standard:**
+**Management/conception:**
 
     + Scrum
     + Hexagonal architecture
