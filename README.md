@@ -27,6 +27,7 @@
     + TDD
     + Clean Code
     + Software craftsmanship
+    + S.O.L.I.D principles
 
 ## I’m looking to collaborate on projects 🚀 
 
