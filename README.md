@@ -52,7 +52,13 @@
 
 <br>
 
-<div align="center"> 
+<div align="center">
+     <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="quarkus" width="40" height="40"/> 
+    </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+    </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
