@@ -31,10 +31,11 @@
 
 ## I’m looking to collaborate on projects 🚀 
 
-<p align="left">
+<div align="left">
 
 <h3 align="left">Technologies:</h3>
-<p align="center"> 
+
+<div align="center"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
     </a>
@@ -47,22 +48,11 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
     </a> 
-</p>
+</div>
+
 <br>
-<p align="center"> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
-        <img src="[https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)" alt="quarkus" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="spring" width="40" height="40"/> 
-    </a> 
+
+<div align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
@@ -87,15 +77,23 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
         <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab" width="50" height="50"/> 
     </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a> 
-</p>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+</div>
+
 <br>
-<p align="center"> 
+
+<div align="center"> 
      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     </a> 
@@ -103,14 +101,13 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     </a> 
-</p>
-
-<p align="center"> 
+</div>
+<br>
+<div align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
     </a> 
@@ -123,12 +120,14 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
     </a>
-</p>
+</div>
 
 <h4 align="left">Connect with me on:</h3>
+
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-gibert-7012/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="60" height="60"/> 
 </a>
+
 <a href="https://stackoverflow.com/users/12138701/cl%c3%a9ment">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" width="60" height="60"/> 
 </a>
