@@ -50,20 +50,18 @@
 </p>
 <br>
 <p align="center"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-        <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="quarkus" width="40" height="40"/> 
-    </a> 
-       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    
+    <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
+        <img src="[https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)" alt="quarkus" width="40" height="40"/> 
+    </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="spring" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -74,21 +72,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a> 
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
     </a> 
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
     </a> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
@@ -115,7 +104,25 @@
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     </a> 
+</p>
+
+<p align="center"> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
+    </a> 
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20"/> 
+    </a>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
+    </a>
 </p>
 
 <h4 align="left">Connect with me on:</h3>
