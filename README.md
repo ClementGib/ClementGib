@@ -5,8 +5,8 @@
 
 **Back-end Stacks:**
 
-    * Java version: 8, 11, 17, 21
-    * Framework: Spring, Quarkus
+* Java version: 8, 11, 17, 21
+* Framework: Spring, Quarkus
     * Database: PostegreSQL, H2
     * ORM: Hibernate, Spring Data
     * Broker: Apache Kafka
