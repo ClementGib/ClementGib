@@ -34,8 +34,6 @@
 * DBbeaver
 * Terminator, Cmder
 
-<br>
-
 ## I’m looking to collaborate on projects 🚀 
 
 <div align="left">
