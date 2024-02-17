@@ -14,11 +14,15 @@
 * Distributed computing: Apache Spark
 * Batch processing: Spring Batch and JBeret
 * Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
-<br/>
+  
+<br>
+
 **Front-end Stacks:**
 * Angular 14
 * Jest and Jasmin
 * Bootstrap 5
+
+<br>
         
 **Tools:**
 * IntelliJ IDEA
@@ -29,6 +33,8 @@
 * Sonar
 * DBbeaver
 * Terminator, Cmder
+
+<br>
 
 ## I’m looking to collaborate on projects 🚀 
 
