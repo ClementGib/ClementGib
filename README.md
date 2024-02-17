@@ -7,28 +7,28 @@
 
 * Java version: 8, 11, 17, 21
 * Framework: Spring, Quarkus
-    * Database: PostegreSQL, H2
-    * ORM: Hibernate, Spring Data
-    * Broker: Apache Kafka
-    * Application server: Apache Tomcat, JBoss Wildfly
-    * Distributed computing: Apache Spark
-    * Batch processing: Spring Batch and JBeret
-    * Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
+* Database: PostegreSQL, H2
+* ORM: Hibernate, Spring Data
+* Broker: Apache Kafka
+* Application server: Apache Tomcat, JBoss Wildfly
+* Distributed computing: Apache Spark
+* Batch processing: Spring Batch and JBeret
+* Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
     
 **Front-end Stacks:**
-    * Angular 14
-    * Jest and Jasmin
-    * Bootstrap 5
+* Angular 14
+* Jest and Jasmin
+* Bootstrap 5
         
 **Tools:**
-    * IntelliJ IDEA
-    * VsCode
-    * Github & GitLab 
-    * Maven
-    * Jenkins
-    * Sonar
-    * DBbeaver
-    * Terminator, Cmder
+* IntelliJ IDEA
+* VsCode
+* Github & GitLab 
+* Maven
+* Jenkins
+* Sonar
+* DBbeaver
+* Terminator, Cmder
 
 ## I’m looking to collaborate on projects 🚀 
 
