@@ -139,7 +139,7 @@
 </a>
 
 <a href="https://medium.com/@c.gibertpro">
-    <img src="https://markentier.tech/posts/2020/10/medium-icon-svg/medium.icon.ellipses.svg" alt="medium" width="130" height="40"/> 
+    <img src="https://markentier.tech/posts/2020/10/medium-icon-svg/medium.icon.ellipses.svg" alt="medium" width="100" height="40"/> 
 </a>
 
 
