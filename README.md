@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋
+<h1 align="center">Welcome 👋
 <h3 align="center">Java developper from France working for financial sector 🏛️</h3>
 
 ## I’m currently working at **Société Générale** for Olympp 🏺
