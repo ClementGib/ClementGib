@@ -14,7 +14,7 @@
 * Distributed computing: Apache Spark
 * Batch processing: Spring Batch and JBeret
 * Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
-    
+<br/>
 **Front-end Stacks:**
 * Angular 14
 * Jest and Jasmin
