@@ -18,7 +18,7 @@
 <br>
 
 **Front-end Stacks:**
-* Angular 14
+* Angular 14+
 * Jest and Jasmin
 * Bootstrap 5
 
