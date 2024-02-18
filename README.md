@@ -13,7 +13,7 @@
 * Broker: Apache Kafka
 * Distributed computing: Apache Spark
 * Batch processing: Spring Batch and JBeret
-* Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
+* Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, QuarkusTest, embedded databases
   
 <br>
 
