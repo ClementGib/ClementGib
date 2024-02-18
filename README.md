@@ -9,8 +9,8 @@
 * Framework: Spring, Quarkus
 * Database: PostegreSQL, H2
 * ORM: Hibernate, Spring Data
-* Broker: Apache Kafka
 * Application server: Apache Tomcat, JBoss Wildfly
+* Broker: Apache Kafka
 * Distributed computing: Apache Spark
 * Batch processing: Spring Batch and JBeret
 * Testing: JUnit 4 and 5, Spring Test, Mockito, AssertJ, Arquillian, embedded databases
@@ -25,14 +25,15 @@
 <br>
         
 **Tools:**
-* IntelliJ IDEA
+* IntelliJ IDEA, Eclipse
 * VsCode
-* Github & GitLab 
+* Git
 * Maven
+* Github, GitLab 
 * Jenkins
 * Sonar
-* DBbeaver
 * Terminator, Cmder
+* DBbeaver
 
 ## I’m looking to collaborate on projects 🚀 
 
