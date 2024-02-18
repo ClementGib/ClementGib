@@ -96,8 +96,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab" width="50" height="50"/> 
+    <a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> 
     </a> 
 </div>
 
