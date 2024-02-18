@@ -87,7 +87,7 @@
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
     </a> 
-    <a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" target="_blank" rel="noreferrer"> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
